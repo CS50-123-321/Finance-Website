@@ -1,0 +1,5 @@
+cs50
+Flask
+Flask-Session
+requests
+API Token: pk_069175f05f624d2b9910fc745df85536
